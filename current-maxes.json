@@ -1,0 +1,35 @@
+{
+  "updated": "2025-01-25",
+  "lifts": {
+    "back_squat": {
+      "heavy_top": { "weight": 185, "reps": 6, "rpe": 8.5 },
+      "heavy_backoff": { "weight": 165, "reps": "7-8" },
+      "volume": { "weight": 160, "reps": "8-9" }
+    },
+    "rdl": {
+      "heavy_top": { "weight": 175, "reps": 8, "rpe": 8 },
+      "heavy_backoff": { "weight": 165, "reps": "8-10" },
+      "volume": { "weight": 165, "reps": "8-10" }
+    },
+    "incline_db_press": {
+      "top": { "weight": 60, "reps": 9, "rpe": 9 },
+      "backoff": { "weight": 55, "reps": "8-9" }
+    },
+    "z_press": {
+      "top": { "weight": 95, "reps": "6-7" },
+      "backoff": { "weight": 85, "reps": "6-8" }
+    },
+    "seated_cable_row": {
+      "top": { "weight": 167.5, "reps": 7 },
+      "backoff": { "weight": 145, "reps": "9-10" }
+    },
+    "lat_pulldown": {
+      "working": { "weight": 65, "reps": "13-15" },
+      "heavy": { "weight": 68, "reps": "10-12" }
+    },
+    "incline_db_curl": {
+      "working": { "weight": 30, "reps": "8-10" }
+    }
+  },
+  "notes": "Update this file when PRs are hit or working weights change significantly."
+}
