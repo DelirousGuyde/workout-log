@@ -44,7 +44,8 @@ Sol dictates in natural speech. Common patterns:
 Map spoken names to canonical names:
 - "incline dumbbell press" / "incline db" / "incline press" → `incline_db_press`
 - "z press" / "z-press" / "seated barbell press" → `z_press`
-- "cable fly" / "deck fly" / "pec fly" → `cable_fly`
+- "cable fly" / "cable crossover" → `cable_fly`
+- "pec deck" / "deck fly" / "chest fly machine" → `pec_deck`
 - "back squat" / "squat" / "high bar" → `back_squat`
 - "rdl" / "romanian deadlift" → `rdl`
 - "seated cable row" / "cable row" / "row" → `seated_cable_row`
@@ -82,7 +83,7 @@ Example row:
 Sol runs a **Push / Pull / Legs** split with legs alternating between heavy (A) and volume (B) days.
 
 ### Day Types
-- **Push**: Incline DB Press, Z-Press, Cable Fly (+ tricep accessories)
+- **Push**: Incline DB Press, Z-Press, Cable Fly or Pec Deck (+ tricep accessories)
 - **Pull**: Seated Cable Row, Lat Pulldown, Incline DB Curl (+ rear delt)
 - **Legs A (Heavy)**: Back Squat (heavy), RDL (heavy), accessories
 - **Legs B (Volume)**: Back Squat (moderate), RDL (moderate), leg extension, hamstring curl
