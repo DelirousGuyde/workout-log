@@ -114,3 +114,4 @@ See `program.md` for detailed progression logic.
 3. **Preserve notes** - Form cues, pain signals, and observations are valuable
 4. **Date defaults to today** unless Sol specifies otherwise
 5. **Commit after every log** - Keep the data synced
+6. **Sol is in Pacific timezone (PT)** - When defaulting to "today", use Pacific time, not UTC
