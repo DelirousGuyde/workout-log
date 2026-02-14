@@ -43,7 +43,7 @@ No automated tests are configured. Validate changes by:
 ## Commit & Pull Request Guidelines
 Commit history favors short, descriptive summaries (e.g., `initial setup: workout logging system`, `added Claude md file`). Keep messages concise and focused on one change.
 
-There are no formal PR requirements. When proposing changes, include:
+Open a pull request for all changes (avoid direct pushes to `main`). Use a branch name like `chore/YYYY-MM-DD-short-desc` and include:
 
 - A brief summary of what changed and why.
 - References to any affected data files (e.g., `data/workouts.csv`).
