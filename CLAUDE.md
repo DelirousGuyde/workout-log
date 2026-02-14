@@ -3,6 +3,8 @@
 ## Overview
 This repo is Sol's workout logging system. Sol dictates workouts via voice after training, and Claude parses and logs them to structured data.
 
+Before starting a session, scan `agent-checklist.md` for any reminders or time-based prompts.
+
 ## Primary Commands
 
 ### Logging a Workout

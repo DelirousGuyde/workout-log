@@ -23,6 +23,7 @@ Claude reads recent data and provides weight/rep targets.
 ## Files
 
 - `CLAUDE.md` - Instructions for Claude Code (parsing rules, schema)
+- `agent-checklist.md` - Session-start checklist for any coding agent
 - `data/workouts.csv` - All logged workouts
 - `program.md` - PPL program structure and progression rules
 - `current-maxes.json` - Current working weights
