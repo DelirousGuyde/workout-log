@@ -82,3 +82,11 @@ date,day_type,exercise,set_num,weight,reps,rpe,notes
 2026-02-07,legs_a,leg_extension,2,115,11,9.0,"single-leg; alternating mini-sets; strong quad burn"
 2026-02-07,legs_a,hamstring_curl,1,145,15,9.0,"heavier first set; strong hamstring pump"
 2026-02-07,legs_a,hamstring_curl,2,137.5,10,9.0,"back-off set; still challenging, good tension"
+2026-02-15,push,incline_db_press,1,60,10,8.5,"DB weight per hand. Modified push day."
+2026-02-15,push,incline_db_press,2,55,8,8.5,"DB weight per hand."
+2026-02-15,push,incline_db_press,3,55,8,8.5,"DB weight per hand."
+2026-02-15,push,pec_deck,1,145,14,8.75,
+2026-02-15,push,pec_deck,2,152,7,8.75,
+2026-02-15,push,seated_shoulder_press_machine,1,70,8,8.5,"Seat adjusted to emulate z_press; back angle ~80-85 degrees."
+2026-02-15,push,seated_shoulder_press_machine,2,62,10,8.5,"Seat adjusted to emulate z_press; back angle ~80-85 degrees."
+2026-02-15,push,seated_shoulder_press_machine,3,62,15,8.5,"Huge break 5-10 min between sets 2-3 (talked with buddy)."
