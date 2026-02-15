@@ -8,9 +8,9 @@ Use this checklist at the start of any session (Claude Code or Codex CLI) to cat
 
 ## Routine Checks
 - Read `AGENTS.md` for repo-specific guidance before making changes.
-- If the task involves logging workouts, follow `CLAUDE.md` parsing and CSV rules.
+- If the task involves logging workouts, follow `README.md` parsing and CSV rules.
 - If changes affect training policy or current state, update `state.md` and refresh the “Last updated” date.
 
 ## Safety & Consistency
 - Keep `data/*.csv` append-only unless explicitly requested.
-- Preserve canonical exercise names and day types (see `CLAUDE.md`).
+- Preserve canonical exercise names and day types (see `README.md`).
