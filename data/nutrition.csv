@@ -1,0 +1,3 @@
+date,time,meal_name,calories,protein_g,carbs_g,fat_g,fiber_g,notes
+2026-02-15,,morning_breakfast_est,525,20,48,24,4,"Estimated from: 2/3 Costco parmesan bagel + ~3 tbsp regular cream cheese + 1.5 large eggs + 1/2 medium banana. Assumptions: full bagel ~320 kcal (11P/62C/2F); cream cheese 1 tbsp ~50 kcal (5F); large egg ~72 kcal."
+2026-02-15,,lunch_est,833,52,47,46,8,"Estimated from: Costco canned tuna (stated 43g protein; assumed ~200 kcal), 2/3 Costco bagel (assumed ~213 kcal), 1/2 avocado (assumed ~120 kcal), 3 tbsp regular mayo (assumed ~300 kcal). Variance depends on tuna type (in water vs oil) + mayo tbsp accuracy."
